@@ -1,5 +1,5 @@
 ---
-title: mon-premier-blog-post
+title: Mon Premier Blog Post
 date: 2021-07-03
 ---
 Holla Amigos, Holla Amigas!
